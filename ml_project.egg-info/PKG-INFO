@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ml-project
+Version: 0.0.1
+Author: aditi verma
+Author-email: aditirisha28@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
