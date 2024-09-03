@@ -7,6 +7,7 @@ ml_project.egg-info/requires.txt
 ml_project.egg-info/top_level.txt
 src/__init__.py
 src/exception.py
+src/logged.py
 src/logger.py
 src/utils.py
 src/components/__init__.py
